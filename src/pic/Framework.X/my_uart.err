@@ -1,0 +1,1 @@
+Warning[2065] C:\Users\ECE4534\Documents\embedded\Repo\pic\src\my_uart.c 272 : static function 'uart_check_for_header' never referenced
